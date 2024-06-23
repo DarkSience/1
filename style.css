@@ -1,0 +1,29 @@
+html{
+    background-color: black;
+}
+
+img{
+    border:5px solid white;
+    height:300px;
+    width: 500px;
+    text-align: right;
+    display:block;
+    margin:auto;
+    margin-top:50px;
+}
+
+p{
+    font-family: "Playwrite US Modern", cursive;
+    margin:15px;
+    color:white;
+    text-align: center;
+    font-weight: 500;
+}
+
+#title{
+    font-size: 60px;
+}
+
+#subtitle{
+    font-size:30px;
+}
